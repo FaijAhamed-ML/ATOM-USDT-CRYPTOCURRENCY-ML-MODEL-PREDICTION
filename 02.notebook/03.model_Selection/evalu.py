@@ -1,4 +1,4 @@
-
+#Every model notebook uses these exact rules, so scores are comparable.
 
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.model_selection import cross_validate, validation_curve
